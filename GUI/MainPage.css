@@ -1,0 +1,12 @@
+.root {
+    -fx-background-color: linear-gradient(to left, #f2dac9, #f4eed8);
+}
+
+AnchorPane{
+    -fx-background-color: linear-gradient(to left, #f2dac9, #f4eed8);
+}
+
+VBox{
+    -fx-background-color: linear-gradient(to left, #f2dac9, #f4eed8);
+}
+
