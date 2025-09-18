@@ -12,30 +12,6 @@ This is a simple **full-stack ToDoList application** with **Spring Boot + JPA + 
 
 ---
 
-## 📂 项目结构 (Project Structure)
-
-toDoList/
-├─ src/
-│ ├─ main/
-│ │ ├─ java/com/example/todolist/
-│ │ │ ├─ controller/ # 控制层 (Controller layer)
-│ │ │ │ └─ TodoController.java
-│ │ │ ├─ entity/ # 实体层 (Entity layer)
-│ │ │ │ └─ Todo.java
-│ │ │ ├─ repository/ # 数据访问层 (Repository layer)
-│ │ │ │ └─ TodoRepository.java
-│ │ │ ├─ service/ # 服务层 (Service layer)
-│ │ │ │ └─ Impl/TodoService.java
-│ │ │ └─ ToDoListApplication.java # 启动类 (Main Application)
-│ │ ├─ resources/
-│ │ │ ├─ static/ # 前端静态资源 (Frontend static files)
-│ │ │ │ ├─ index.html
-│ │ │ │ ├─ style.css
-│ │ │ │ └─ app.js
-│ │ │ ├─ templates/ # (暂未使用，可放Thymeleaf模板)
-│ │ │ └─ application.yml # 配置文件 (Configuration)
-└─ pom.xml # Maven 配置
-
 
 
 
